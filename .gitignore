@@ -1,0 +1,12 @@
+# MacOS
+.DS_Store
+.idea/
+
+# Serverless directories
+.serverless/
+
+# Dependencies
+node_modules/
+
+# Build
+build/
